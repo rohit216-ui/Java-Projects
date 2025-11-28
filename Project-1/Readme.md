@@ -50,8 +50,8 @@ Database
 <img width="1366" height="768" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/d17d43f6-5e6b-4516-b40e-3a9ac00dc4ce" />
 
 👨‍💻 Author
-Rohit Joshi
-Java Developer | Data Engineering Enthusiast
-📧 rohitjoshi0508@gmail.com
-🔗 https://www.linkedin.com/in/rohit-joshi-42aa74241/
+ Rohit Joshi 
+ Java Developer | Data Engineering Enthusiast 
+ 📧 rohitjoshi0508@gmail.com 
+ 🔗 https://www.linkedin.com/in/rohit-joshi-42aa74241/
 
