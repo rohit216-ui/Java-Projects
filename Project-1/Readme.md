@@ -2,7 +2,8 @@
 
 A modern, clean, and modular Spring Boot + MySQL application designed for managing employee data with full CRUD operations, authentication, a professional UI, and structured backend architecture.
 
-<p align="center"> <img src="logo.png" alt="Alpha EMS Logo" width="180"/> </p>
+<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/a6965095-b82c-40d3-b023-3cf424c5905d" />
+
 
 ⭐ Highlights
 
@@ -14,6 +15,7 @@ A modern, clean, and modular Spring Boot + MySQL application designed for managi
 🧩 Ready for future expansion into full HRMS
 
 🛠️ Tech Stack
+
 Backend
 
 ✔ Java 21
@@ -48,7 +50,6 @@ Database
 <img width="1366" height="768" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/d17d43f6-5e6b-4516-b40e-3a9ac00dc4ce" />
 
 👨‍💻 Author
-
 Rohit Joshi
 Java Developer | Data Engineering Enthusiast
 📧 rohitjoshi0508@gmail.com
