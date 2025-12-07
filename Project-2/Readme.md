@@ -11,7 +11,7 @@ A console-based banking application developed using **Core Java** and **Object-O
 - View saved account details
 - Menu-driven interface for smooth user interaction
 - Input validation for user details like name, gender, age, and Aadhaar number
-- **PIN-based authentication for secure access to account operations**
+- PIN-based authentication for secure access to account operations
 
 ## 🛠️ Technology Used
 
